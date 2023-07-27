@@ -1,0 +1,9 @@
+1) download main.cpp, gameBoard.cpp, and gameBoard.h
+2) open replit, click the "+" on the top right corner
+3) under the template options, click on "c++"
+4) click "+ Create Repl "
+5) under the "files" column on the left of the screen, click the 3 dots on the top right of the "files" column
+6) find "upload file" and upload main.cpp, gameBoard.cpp, and gameBoard.h from your downloads. 
+7) when you are ready, click the green "run" button on the top middle of the screen
+
+
